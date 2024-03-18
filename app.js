@@ -32,7 +32,7 @@ wss.on('connection', (ws) => {
 
 // Define a route for handling HTTP requests
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello World Lakshay!');
 });
 
 // Start the server on port 3000
